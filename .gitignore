@@ -1,0 +1,5 @@
+.idea
+.idea/*
+workspace.xml
+.ipynb_checkpoints
+.ipynb_checkpoints/*
