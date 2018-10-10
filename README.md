@@ -1,1 +1,1 @@
-# coursera_ml_python
+Homework for Andrew Ng's Machine Learning, using python language
